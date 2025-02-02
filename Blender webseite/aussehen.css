@@ -1,0 +1,17 @@
+h1{
+    color:deeppink;
+    background: cyan;
+    font-size: 125px;
+}
+p{
+    color:darkorange
+}
+body{
+    background:black
+}
+h3{
+    color:white
+}
+p{
+    border-left: 6px red solid
+}
